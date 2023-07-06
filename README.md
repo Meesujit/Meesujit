@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **React.js, Next.js**<br><br>- 👯 I’m looking to collaborate on **Opensource Community**<br><br>- 🤝 I’m looking for help with **Opensource Project**<br><br>- 💬 Ask me about **MERN**<br><br>- 📫 How to reach me **sujit.gda997@gmail.com**
+- 🌱 I’m currently learning **React.js, Next.js**<br><br>- 👯 I’m looking to collaborate on **Opensource Community**<br><br>- 🤝 I’m looking for help with **Opensource Project**<br><br>- 💬 Ask me about **MERN**<br><br>- 📫 How to reach me **sujit.gda997@gmail.com**<br><br>- My [resume](https://drive.google.com/file/d/1vbIs6pFJuqgxJ68vOUuk5eVy0-NAy4On/view?usp=sharing).
 
 
 ## 🌐 Socials:
