@@ -1,3 +1,30 @@
-# 💫 About Me:
-My name is Sujit, I am a Computer Science student from India and I love building cool things on web. Here's a little about me:<br>- I’m currently learning ReactJS<br>- Blending in Opensource([contribution list](./cbn-list.md))<br>- 📫 Reach me by: [sujit.gda997@gmail.com](mailto:sujit.gda997@gmail.com).<br> - My [resume](https://drive.google.com/file/d/1TpC2B7mlgiFuwKJZfkVHtM7VWSBCvbxH/view?usp=sharing).<br>- Passionate [photographer](https://unsplash.com/@mr__nobody).<br>- [Portfolio](https://sujitgouda.me)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+```yaml
+name: Sujit Gouda
+located_in: Bhubaneswar, India
+education:
+  [
+    "Self-Taught Developer",
+    "Master's in Computer Application",
+    "Bachelor's in Computer Science",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Crypto Minning",
+    "Machine Learning",
+    "UI/UX",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "Freelancer",
+  ]
+  
+currently_learning: ["React, Node, and Next.js"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Photography"]
+
+```
