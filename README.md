@@ -45,7 +45,7 @@ technical_background:
   ]
   
 currently_learning: ["React, Node, and Next.js"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2025 Goals: ["Looking for new fields to test my skills."]
 hobbies: ["Gaming", "Cinema", "Photography"]
 
 ```
