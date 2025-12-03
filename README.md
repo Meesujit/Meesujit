@@ -7,13 +7,13 @@
 </h1>
 
 <p align="center">
-<a href="https://sujit-gouda-portfolio.netlify.app">
+<a href="https://sujit-gouda.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/mesujit/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://twitter.com/Sujitgouda18">
+<a href="https://twitter.com/sujit_6ouda">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="https://www.instagram.com/sujit.kumar.gouda/">
@@ -22,31 +22,27 @@
 </p>
 
 ```yaml
-name: Sujit Gouda
-located_in: Bhubaneswar, India
-education:
-  [
-    "Self-Taught Developer",
-    "Master's in Computer Application",
-    "Bachelor's in Computer Science",
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Crypto Minning",
-    "Machine Learning",
-    "UI/UX",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "Freelancer",
-  ]
-  
-currently_learning: ["React, Node, and Next.js"]
-2025 Goals: ["Looking for new fields to test my skills."]
-hobbies: ["Gaming", "Cinema", "Photography"]
+name: "Sujit Gouda",
+Experience: [
+  {
+      Company Name: "Eduplor India",
+      Role: "Software Engineer",
+      Time: "2025 - Present",
+  },
+  {
+      Company Name: "Noisiv Consulting",
+      Role: "Software Engineer",
+      Time: "2024 Aug - 2025 May"
+  }
+],
+Portfolio: "https://sujit-gouda.netlify.app",
+Side Hustle: Freelance - ["https://binarysquad.pages.dev"],
+Language: ["Typescript", "Javascript"],
+Frontend: ["React.Js", "Next.Js", "TailwindCSS", "Responsive Design", "RESTful APIs", "SSG"],
+Backend: [Node.js, Express, SSR, Supabase],
+Cloude: ["Cloudflare", "Vercel", "Netlify"]
+Developer Tools: ["Git", "GitHub", "VS code", "Postman", "NPM"],
+Education: ["MCA", "B.Sc"]
 
 ```
 
