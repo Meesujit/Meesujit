@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<a href="https://sujit-gouda.pages.dev">
+<a href="https://sujit-gouda.pages.dev/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/mesujit/">
@@ -35,7 +35,7 @@ Experience: [
       Time: "2024 Aug - 2025 May"
   }
 ],
-Portfolio: "https://sujit-gouda.netlify.app",
+Portfolio: "https://sujit-gouda.pages.dev",
 Side Hustle: Freelance - ["https://binarysquad.pages.dev"],
 Language: ["Typescript", "Javascript"],
 Frontend: ["React.Js", "Next.Js", "TailwindCSS", "Responsive Design", "RESTful APIs", "SSG"],
