@@ -91,9 +91,25 @@
 
 <div align="center">
 
-<a href="https://Meesujit.github.io/space-invaders">
+<a href="https://space-invader-neon.netlify.app">
   <img src="./game-banner.svg" width="100%" alt="Play Space Invaders"/>
 </a>
+
+</div>
+
+---
+
+## `> snake --eat-contributions`
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
