@@ -22,21 +22,9 @@
 
 ## `> whoami`
 
-```typescript
-const sujit: Developer = {
-  name      : "Sujit Kumar Gouda",
-  location  : "Bhubaneswar, Odisha 🇮🇳",
-  currently : "Software Engineer @ Eduplor India",
-  sideHustle: ["Freelance", "BinarySquad"],
-  languages : ["TypeScript", "JavaScript"],
-  frontend  : ["Next.js", "React", "TailwindCSS", "SSG / SSR"],
-  backend   : ["Node.js", "Express", "Supabase", "Prisma"],
-  cloud     : ["Cloudflare", "Vercel", "Netlify"],
-  education : ["MCA", "B.Sc Computer Science"],
-  funFact   : "I debug at 2am and call it productivity 🌙",
-  openTo    : true, // cool collabs & interesting problems
-};
-```
+<div align="center">
+<img src="./terminal.svg" width="100%" alt="Terminal — about Sujit"/>
+</div>
 
 ---
 
@@ -97,17 +85,15 @@ const sujit: Developer = {
 
 ---
 
-## `> snake --eat-contributions`
+## `> ./play-game.sh`
 
 <br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake.svg"/>
-</picture>
+<a href="https://Meesujit.github.io/space-invaders">
+  <img src="./game-banner.svg" width="100%" alt="Play Space Invaders"/>
+</a>
 
 </div>
 
@@ -125,30 +111,3 @@ const sujit: Developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2040,100:00ffaa&height=80&section=footer" width="100%"/>
 
 </div>
-
-<!-- ════════════════════════════════════════════════
-  SNAKE ANIMATION SETUP
-  Create: .github/workflows/snake.yml
-  ────────────────────────────────────────────────
-  name: Snake Animation
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_token: ${{ secrets.GITHUB_TOKEN }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ════════════════════════════════════════════════ -->
