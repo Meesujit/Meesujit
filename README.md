@@ -1,129 +1,117 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Sujit Gouda — Software Engineer"/>
-
-<br/>
-
-<a href="https://sujit-gouda.pages.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=00ffaa"/></a>
-<a href="https://binarysquad.pages.dev"><img src="https://img.shields.io/badge/BinarySquad-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=f472b6"/></a>
-<a href="https://www.linkedin.com/in/mesujit/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://twitter.com/sujit_6ouda"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
-<a href="https://www.instagram.com/sujit.kumar.gouda/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Meesujit&color=00ffaa&style=flat-square&label=profile+views)
+*From GitHub, the free profile anyone can fork*
 
 </div>
 
-<br/>
+<table width="100%">
+<tr>
+<td valign="top" width="65%">
+
+# Sujit Kumar Gouda
+
+**Sujit Kumar Gouda** is an Indian software engineer based in Odisha, India, known for full‑stack web development with React and Next.js, and for designing and self‑administering his own production server infrastructure rather than relying solely on managed SaaS.<sup>[1]</sup> He currently works at **Eduplor India** and takes on independent contract work as a freelance developer.<sup>[2]</sup>
+
+### Contents
+1. [Early life and education](#early-life-and-education)
+2. [Career](#career)
+3. [Notable projects](#notable-projects)
+4. [Technical skills](#technical-skills)
+5. [GitHub activity](#github-activity)
+6. [External links](#external-links)
+
+## Early life and education
+
+Gouda completed a **Bachelor of Computer Science** at Brahmapur University (2020–2023), followed by a **Master of Computer Applications (MCA)** at the **Kalinga Institute of Industrial Technology (KIIT)**, Bhubaneswar, from 2023 to 2025.<sup>[3]</sup>
+
+## Career
+
+### Noisiv Consulting (2024–2025)
+As a Software Engineer Intern, Gouda built *WOSH*, a React-based training platform, and developed an internal tool for dynamic PDF generation used in client reporting.<sup>[4]</sup>
+
+### Eduplor India (2025–present)
+Gouda joined Eduplor India as a Software Engineer in July 2025, working on React/Next.js modules and lead-capture systems, and later took ownership of the company's self-hosted CRM infrastructure.<sup>[5]</sup>
+
+### Freelance work (2025–present)
+Since September 2025, Gouda has delivered full-stack applications for clients across real estate, hospitality, and legal sectors under his independent practice, **BinarySquad**.<sup>[6]</sup>
+
+## Notable projects
+
+### Self-hosted CRM infrastructure
+In 2025, Gouda designed and deployed a self-hosted alternative to commercial CRM SaaS, using **EspoCRM** on a containerized stack (**Docker**, **MariaDB**, **Redis**) behind a **Traefik v3** reverse proxy, with automated TLS via a **Cloudflare** DNS‑01 challenge and uptime monitoring through **Uptime Kuma**. The system remains in daily production use.<sup>[7]</sup>
+
+### Dynamic Lead CRM & Form Management Platform
+A serverless CRM built on **Cloudflare Workers** and **D1**, created to replace a spreadsheet-based lead pipeline that was silently failing under high traffic.<sup>[8]</sup>
+
+## Technical skills
+
+| Category | Technologies |
+|---|---|
+| Languages | JavaScript, TypeScript, Java, SQL, Bash |
+| Frontend | React.js, Next.js, TailwindCSS |
+| Backend | Node.js, Express.js, Hono |
+| Data | PostgreSQL, MariaDB, Redis, Supabase |
+| Infrastructure | Docker, Traefik, Cloudflare, Linux |
+
+</td>
+<td valign="top" width="35%">
+
+<table width="100%" cellspacing="0" cellpadding="6" style="border:1px solid #a2a9b1; background:#f8f9fa; font-size:13px;">
+<tr><td colspan="2" align="center" style="background:#eaecf0;"><b>Sujit Kumar Gouda</b></td></tr>
+<tr><td colspan="2" align="center"><img src="https://github.com/Meesujit.png" width="160"/></td></tr>
+<tr><td colspan="2" align="center"><i>GitHub profile photo</i></td></tr>
+<tr><td><b>Born</b></td><td>Brahmapur, Odisha, India</td></tr>
+<tr><td><b>Alma mater</b></td><td>KIIT (MCA)<br/>Brahmapur University (B.Sc.)</td></tr>
+<tr><td><b>Occupation</b></td><td>Software Engineer</td></tr>
+<tr><td><b>Employer</b></td><td>Eduplor India</td></tr>
+<tr><td><b>Known for</b></td><td>Self-hosted CRM infrastructure; BinarySquad</td></tr>
+<tr><td><b>Website</b></td><td><a href="https://sujit-gouda.pages.dev">sujit-gouda.pages.dev</a></td></tr>
+<tr><td colspan="2" style="background:#eaecf0;"><b>Online presence</b></td></tr>
+<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/mesujit/">mesujit</a></td></tr>
+<tr><td><b>GitHub</b></td><td><a href="https://github.com/Meesujit">Meesujit</a></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> whoami`
-
-<div align="center">
-<img src="./terminal.svg" width="100%" alt="Terminal — about Sujit"/>
-</div>
-
----
-
-## `> cat experience.log`
-
-<br/>
+## GitHub activity
 
 <div align="center">
 
-| | Role | Company | Duration |
-|:---:|:---|:---|:---|
-| 🟢 | **Software Engineer** | Eduplor India | `Jan 2025 → Present` |
-| ⚪ | **Software Engineer** | Noisiv Consulting | `Aug 2024 → May 2025` |
-
-</div>
-
----
-
-## `> ls ./skills`
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,prisma,postgres,supabase,cloudflare,vercel,netlify,docker,git,github,vscode,postman,linux,bash&theme=dark&perline=10" alt="Tech Stack"/>
-
-</div>
-
----
-
-## `> git log --stat`
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Meesujit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00ffaa&text_color=94a3b8&ring_color=00ffaa&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meesujit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=94a3b8&langs_count=6" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Meesujit&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ffaa&fire=f472b6&currStreakLabel=00ffaa&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
-
-</div>
-
----
-
-## `> git graph --contributions`
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meesujit&bg_color=0d1117&color=00ffaa&line=00ffaa&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
-</div>
-
----
-
-## `> ./play-game.sh`
-
-<br/>
-
-<div align="center">
-
-<a href="https://space-invader-neon.netlify.app">
-  <img src="./game-banner.svg" width="100%" alt="Play Space Invaders"/>
-</a>
-
-</div>
-
----
-
-## `> snake --eat-contributions`
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Meesujit/Meesujit/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Meesujit&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0645ad&icon_color=0645ad&text_color=202122&ring_color=a2a9b1" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meesujit&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0645ad&text_color=202122&langs_count=6" height="160"/>
 
 </div>
 
+## External links
+
+- [Portfolio](https://sujit-gouda.pages.dev)
+- [BinarySquad](https://binarysquad.pages.dev)
+- [LinkedIn](https://www.linkedin.com/in/mesujit/)
+- [Email](mailto:sujit.gda997@gmail.com)
+
 ---
 
+<sub>
+<b>References</b><br/>
+1. Portfolio site, sujit-gouda.pages.dev.<br/>
+2. Résumé, "Experience," 2026.<br/>
+3. Résumé, "Education," 2026.<br/>
+4. Résumé, "Noisiv Consulting," 2026.<br/>
+5. Résumé, "Eduplor India," 2026.<br/>
+6. Résumé, "Freelance," 2026.<br/>
+7. Résumé, "Projects — Self-Hosted CRM Infrastructure," 2026.<br/>
+8. Résumé, "Projects — Dynamic Lead CRM & Form Management Platform," 2026.
+</sub>
+
 <div align="center">
+<sub>
 
-```
-╔══════════════════════════════════════════╗
-║   Thanks for stopping by. Let's build.  ║
-║         sujit-gouda.pages.dev           ║
-╚══════════════════════════════════════════╝
-```
+**Categories:** Software engineers · Full-stack developers · KIIT alumni · Self-hosting enthusiasts
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2040,100:00ffaa&height=80&section=footer" width="100%"/>
-
+</sub>
 </div>
